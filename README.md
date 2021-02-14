@@ -1,4 +1,5 @@
 # goAPI
+save the main.go file and execute it.
 GO Scraping 
 In order to use this basic api which fetches HTML data please use bellow instructions:
 
